@@ -21,6 +21,7 @@ This is a repository to collect and share my personal JavaScript learning resour
 * [Frontend Masters Advanced JavaScript with Kyle Simpson](https://frontendmasters.com/courses/advanced-javascript/)
 
 * [Fronted Masters Functional-Lite JavaScript with Kyle Simpson](https://frontendmasters.com/courses/functional-js-lite/)
+
 ### Books:
 
 Comming soon...
