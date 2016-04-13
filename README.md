@@ -24,6 +24,7 @@ This is a repository to collect and share my personal JavaScript learning resour
 
 * [Fronted Masters Functional-Lite JavaScript with Kyle Simpson](https://frontendmasters.com/courses/functional-js-lite/)
 
+
 ### Books:
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke
@@ -32,7 +33,7 @@ This is a repository to collect and share my personal JavaScript learning resour
 
 * [You don't know JavaScript: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) by Kyle Simpson
 
-*[You don't know JavaScript: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) by Kyle Simpson
+* [You don't know JavaScript: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) by Kyle Simpson
 
 * [You don't know JavaScript: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) by Kyle Simpson
 
