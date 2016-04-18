@@ -3,7 +3,7 @@
 This is a repository to collect and share my personal JavaScript learning resources.
 
 ### Online Resources:
-***
+---
 * [Make a Star Wars Game](https://studio.code.org/s/starwars/stage/1/puzzle/1)
 
 * [JavaScript for Cats](http://jsforcats.com/)
@@ -27,7 +27,7 @@ This is a repository to collect and share my personal JavaScript learning resour
 
 
 ### Books:
-***
+---
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke
 
 * [JavaScript & jQuery](http://javascriptbook.com/) by Jon Duckett
@@ -45,7 +45,7 @@ This is a repository to collect and share my personal JavaScript learning resour
 
 
 ### Twitter:
-***
+---
 There are a lot of smart people on Twitter worth following who are regularly sharing interesting articles, code-snippets and insights on JavaScript.
 
 * Kyle Simpson - [@getify](https://twitter.com/getify)
