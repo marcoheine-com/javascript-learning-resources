@@ -40,3 +40,30 @@ This is a repository to collect and share my personal JavaScript learning resour
 * [You don't know JavaScript: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) by Kyle Simpson
 
 * [You don't know JavaScript: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) by Kyle Simpson
+
+
+### Twitter:
+
+There are a lot of smart people on Twitter worth following who are regularly sharing interesting articles, code-snippets and insights on JavaScript.
+
+* Kyle Simpson - [@getify](https://twitter.com/getify)
+
+* Eric Elliot - [@_ericelliot](https://twitter.com/_ericelliott)
+
+* Brendan Eich - [@BrendanEich](https://twitter.com/BrendanEich)
+
+* Addy Osmani - [@addyosmani](https://twitter.com/addyosmani)
+
+* Axel Rauschmayer - [@rauschma](https://twitter.com/rauschma)
+
+* Dadid Walsh - [@davidwalshblog](https://twitter.com/davidwalshblog)
+
+* Paul Irish - [@paul_irish](https://twitter.com/paul_irish)
+
+* Sindre Sorhus - [@sindresorhus](https://twitter.com/sindresorhus)
+
+* Thomas Fuchs - [@thomasfuchs](https://twitter.com/thomasfuchs)
+
+* Kent C. Dodds - [@kentcdodds](https://twitter.com/kentcdodds)
+
+* Cody Lindley - [@codylindley](https://twitter.com/codylindley)
