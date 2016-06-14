@@ -42,6 +42,8 @@ This is a repository to collect and share my personal JavaScript learning resour
 
 * [You don't know JavaScript: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) by Kyle Simpson
 
+* [JavaScript: The Good Parts](https://www.amazon.de/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742/ref=sr_1_1?ie=UTF8&qid=1465919132&sr=8-1&keywords=javascript+the+good+parts) by Douglas Crockford
+
 
 
 ### Twitter:
